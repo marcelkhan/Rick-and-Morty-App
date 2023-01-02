@@ -3,9 +3,10 @@
  The [Rick and Morty API](https://rickandmortyapi.com/) is used to display the characters of the TV Series
 
 ## Preview:
-
- <img src="resources\Screenshot_20230102_153920.png" width="250">
- <img src="resources\Screenshot_20230102_154026.png" width="250">
+ <table><tr>
+ <td><img src="resources\Screenshot_20230102_153920.png" width="250"></td>
+ <td><img src="resources\Screenshot_20230102_154026.png" width="250"></td>
+ </tr></table>
 
 ## Download:
-[RickandMortyApp_v1.0.apk]()
+[RickandMortyApp_v1.0.apk](https://github.com/marcelkhan/Rick-and-Morty-App/raw/main/resources/RickandMortyApp_v1.0.apk)
